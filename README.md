@@ -1,8 +1,13 @@
 ### Hi there 👋
+<br> I am Jack, Welcome to my homepage.I am a unreal Engine Developer, working in a cinematic company and Major in game , VR and plugin dev .
+<br> 欢迎来到我的主页，我是Jack！我是一名虚幻引擎开发者，擅长引擎扩展和VR和游戏开发工作，目前在一家影视公司工作，主要从事影视相关的插件开发和引擎扩展工作。
 
-![Visitor Count](https://profile-counter.glitch.me/JackMaDrinkCoffee/count.svg)
+
+
+<br>![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&theme=tokyonight)
 
 <!--
+
 **JackMaDrinkCoffee/JackMaDrinkCoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[//]: // ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackMaDrinkCoffee)](https://github.com/JackMaDrinkCoffee/github-readme-stats))
+
 -->
