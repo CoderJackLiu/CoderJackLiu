@@ -5,6 +5,7 @@
 
 
 <br>![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&theme=tokyonight)
+<br>![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&theme=tokyonight)
 
 <!--
 
