@@ -1,6 +1,6 @@
 # Hello, I am Jack!👋
 <br> Welcome to my homepage！I am a unreal Engine Developer, working in a cinematic company and Major in game , VR and plugin dev .
-<br> 欢迎来到我的主页，我是Jack，一名虚幻引擎开发者，擅长引擎扩展和VR和游戏开发工作，目前在一家影视公司工作，主要从事影视相关的插件开发和引擎扩展工作。
+<br> 欢迎来到我的主页，我是Jack，一名虚幻引擎开发者，擅长引擎扩展和VR和游戏开发工作，目前在一家影视公司工作，主要从事影视相关的引擎扩展和音视频开发以及人工智能数据集制作工具的开发工作。
 
 
 
