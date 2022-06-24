@@ -1,6 +1,6 @@
 # Hello, I am Jack!👋
-<br> Welcome to my homepage！I am a unreal Engine Developer, working in a cinematic company and Major in game , VR and plugin dev .
-<br> 欢迎来到我的主页，我是Jack，一名虚幻引擎开发者，擅长引擎扩展和VR和游戏开发工作，目前在一家影视公司工作，主要从事影视相关的引擎扩展和音视频开发以及人工智能数据集制作工具的开发工作。
+<br> Welcome to my homepage！I am a unreal Engine Developer, working in a cinematic company and Major in game , media , AI dataset ,plugin and part of shader dev .
+
 
 
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <br>![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&theme=dark)
 
-
+<br> 欢迎来到我的主页，我是Jack，一名虚幻引擎开发者，擅长引擎扩展和VR和游戏开发工作，目前在一家影视公司工作，主要从事影视相关的引擎扩展和音视频开发以及人工智能数据集制作工具的开发工作。
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&theme=dark&include_all_commits=true&hide_rank=false" />
 <a href="https://github.com/JackMaDrinkCoffee/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&theme=dark&line_height=30&hide_rank=false" />
