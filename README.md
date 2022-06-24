@@ -4,10 +4,8 @@
 
 
 
+<br>![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&theme=dark)
 
-<a href="https://github.com/JackMaDrinkCoffee/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&theme=dark&line_height=30&hide_rank=false" />
-</a>
 
 
 
@@ -36,6 +34,11 @@ Here are some ideas to get you started:
 <br>![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackMaDrinkCoffee)](https://github.com/JackMaDrinkCoffee/github-readme-stats)
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&theme=dark&include_all_commits=true&hide_rank=false" />
+<a href="https://github.com/JackMaDrinkCoffee/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&theme=dark&line_height=30&hide_rank=false" />
+</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&theme=dark&line_height=30&hide_rank=false" />
+
 <br>
 <a href="https://github.com/JackMaDrinkCoffee/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&theme=dark&include_all_commits=true&hide_rank=false" />
