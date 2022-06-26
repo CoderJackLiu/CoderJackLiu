@@ -5,8 +5,8 @@
 
 
 <p>
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&count_private=true&theme=tokyonight">
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackMaDrinkCoffee&layout=compact&theme=tokyonight&hide=html,javascript">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=CoderOldSix&show_icons=true&count_private=true&theme=tokyonight">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderOldSix&layout=compact&theme=tokyonight&hide=html,javascript">
 <p>
 
 
