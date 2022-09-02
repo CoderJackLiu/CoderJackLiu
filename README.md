@@ -1,5 +1,5 @@
 # Hello, I am CoderOldSix!👋
-<br> Welcome to my homepage！I am a unreal Engine Developer, working in a VR Game company and Major in game , media ,plugin, AI dataset and part of shader dev .
+<br> Welcome to my homepage！I am an unreal Engine Developer, working in a VR Game company and Major in game , media ,plugin, AI dataset and part of shader dev .
 
 
 
