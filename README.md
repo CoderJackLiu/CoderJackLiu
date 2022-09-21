@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 [//]: // ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackMaDrinkCoffee)](https://github.com/JackMaDrinkCoffee/github-readme-stats))
 <br>![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackMaDrinkCoffee&show_icons=true&theme=dark)
 
--->
+
 <br>
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
@@ -76,6 +76,22 @@ Here are some ideas to get you started:
   <img alt="github actions" src="https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" >
   <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" >
   <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-blue.svg?style=flat-square&logo=windows&logoColor=white">
+  <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" >
+  <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
+</p>   
+
+-->
+<br>
+<p align="center">
+  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
+  <img alt="Java" src="https://img.shields.io/badge/Java-cc0000?style=flat-square&logo=Java&logoColor=white" >
+  <img alt="R" src="https://img.shields.io/badge/R-47A141?style=flat-square&logo=R&logoColor=white" >
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-777BB4?style=flat-square&logo=Shell&logoColor=white" >
+  <img alt="cmake" src="https://img.shields.io/badge/CMake-blue?style=flat-square&logo=cmake&logoColor=white" >
+  <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" >
+  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" >
+  <img alt="github actions" src="https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" >
   <img alt="Windows" src="https://img.shields.io/badge/Windows-blue.svg?style=flat-square&logo=windows&logoColor=white">
   <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" >
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
