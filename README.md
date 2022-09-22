@@ -85,8 +85,6 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
-  <img alt="Java" src="https://img.shields.io/badge/Java-cc0000?style=flat-square&logo=Java&logoColor=white" >
-  <img alt="R" src="https://img.shields.io/badge/R-47A141?style=flat-square&logo=R&logoColor=white" >
   <img alt="Shell" src="https://img.shields.io/badge/Shell-777BB4?style=flat-square&logo=Shell&logoColor=white" >
   <img alt="cmake" src="https://img.shields.io/badge/CMake-blue?style=flat-square&logo=cmake&logoColor=white" >
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" >
